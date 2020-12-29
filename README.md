@@ -163,4 +163,40 @@ public static void sort012(int a[], int n){
 }
 ```
 
-5. 
+5. [Move all the negative elements to one side of the array](https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/) <br />
+Code:
+```
+import java.io.*;
+import java.util.*;
+
+public class GFG {
+	public static void main (String[] args) {
+		Scanner sc=new Scanner(System.in);
+		int a[] = new int[100];
+		int n = sc.nextInt();
+		for(int i=0; i<n; i++){
+		    a[i] = sc.nextInt();
+		}
+		GFG g = new GFG();
+		g.partition(a, n);
+	}
+	public void partition(int a[], int n){
+        int j = 0, temp;
+        for(int i =0; i<n; i++){
+            if(a[i]<0){
+                if(i!=j){
+                    temp = a[i];
+                    a[i] = a[j];
+                    a[j] = temp;
+                }
+                j++;
+            }
+        }
+        for(int i = 0; i<n; i++){
+            System.out.print(a[i]+" ");
+        }
+}
+}
+```
+
+6. 
