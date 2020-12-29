@@ -1,10 +1,11 @@
 # Data Structures and Algorithms
-This repository contains continually updated Data Structures and Algorithms questions and solutions solved by me, [Koushik Joshi](https://www.linkedin.com/in/koushik-joshi-b60b401b/).
+This repository contains continually updated Data Structures and Algorithms questions and solutions solved by me, [Koushik Joshi](https://www.linkedin.com/in/koushik-joshi-b60b401b/). <br />
+The question set was created by [Love Babbar](https://www.youtube.com/channel/UCQHLxxBFrbfdrk1jF0moTpw) and I wholeheartedly thank him this.
 
 # Problems (including categories and code)
 ## Language of code:
 Java
-### Arrays:
+### * Arrays:
 1. [Reverse an array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/) <br />
 Code:
 ```
