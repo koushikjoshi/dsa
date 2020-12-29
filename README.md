@@ -1,5 +1,5 @@
 # Data Structures and Algorithms
-This repository contains continually updated Data Structures and Algorithms questions and solutions solved by me, Koushik Joshi.
+This repository contains continually updated Data Structures and Algorithms questions and solutions solved by me, [Koushik Joshi](https://www.linkedin.com/in/koushik-joshi-b60b401b/).
 
 # Problems (including categories and code)
 ## Language of code:
