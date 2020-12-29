@@ -107,4 +107,23 @@ public class GetMaxMin{
 }
 ```
     
-3. 
+3. [Find the "Kth" max and min element of an array](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1) <br />
+Code:
+```
+public static int kthSmallest(int[] arr, int l, int r, int k) 
+{ 
+    //Your code here
+    
+    int n = arr.length; 
+    PriorityQueue<Integer> pq = new PriorityQueue<Integer>();
+    for(int i = 0; i<n; i++){
+        pq.add(arr[i]);
+    }
+    for(int i=0; i<k-1; i++){
+        pq.poll();
+    }
+    return(pq.peek());
+}
+```
+
+4. 
