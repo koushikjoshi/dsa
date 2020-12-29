@@ -126,4 +126,41 @@ public static int kthSmallest(int[] arr, int l, int r, int k)
 }
 ```
 
-4. 
+4. [Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1)
+Code:
+```
+public static void sort012(int a[], int n){
+    // code here 
+    int zero = 0;
+    int one = 0;
+    int two = 0;
+    for(int i=0; i<n; i++){
+        switch(a[i]){
+            case 0:
+                zero++;
+                break;
+            case 1:
+                one++;
+                break;
+            case 2:
+                two++;
+                break;
+        }
+        }
+    int i=0;
+    while(zero>0){
+        a[i++]=0;
+        zero--;
+    }
+    while(one>0){
+        a[i++]=1;
+        one--;
+    }
+    while(two>0){
+        a[i++]=2;
+        two--;
+    }
+}
+```
+
+5. 
