@@ -15,3 +15,4 @@ Java
 | 4. | [Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1) | [Go](https://gist.github.com/koushikjoshi/7c8e07c90d4d1555872543951b6c10a4) |
 | 5. | [Move all the negative elements to one side of the array](https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/) | [Go](https://gist.github.com/koushikjoshi/ea339fdb45ecf97c4b3bde5dc8af8054) |
 | 6. | [Find the Union and Intersection of the two sorted arrays.](https://practice.geeksforgeeks.org/problems/union-of-two-arrays/0#) | [Go](https://gist.github.com/koushikjoshi/f7ddaa6b9ab43650a064722e89af85a2) |
+| 7. | [Write a program to cyclically rotate an array by one.](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one/0#) | [Go](https://gist.github.com/koushikjoshi/e57951ff81ffcb23174a42eea9a2c24a) |
