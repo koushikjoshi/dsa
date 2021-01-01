@@ -17,3 +17,4 @@ Java
 | 6. | [Find the Union and Intersection of the two sorted arrays.](https://practice.geeksforgeeks.org/problems/union-of-two-arrays/0#) | [Go](https://gist.github.com/koushikjoshi/f7ddaa6b9ab43650a064722e89af85a2) |
 | 7. | [Write a program to cyclically rotate an array by one.](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one/0#) | [Go](https://gist.github.com/koushikjoshi/e57951ff81ffcb23174a42eea9a2c24a) |
 | 8. | [find Largest sum contiguous Subarray](https://practice.geeksforgeeks.org/problems/kadanes-algorithm-1587115620/1) | [Go](https://gist.github.com/koushikjoshi/6edfe8092fbaf7971327f84ce73de69e) |
+| 9. | [Minimise the maximum difference between heights](https://practice.geeksforgeeks.org/problems/minimize-the-heights3351/1) | [Go](https://gist.github.com/koushikjoshi/6fc7c3fe20f032366b800611df2e3b6b) |
